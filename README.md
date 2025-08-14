@@ -1,15 +1,5 @@
-Here's the English version of your README.md:
 
-```markdown
 # Network Toolkit
-
-![Network Toolkit ASCII Art](https://i.imgur.com/example.png)  
-`_______          __                       __     ___________           .__   __   .__  __   `  
-`\      \   _____/  |___  _  _____________|  | __ \__    ___/___   ____ |  | |  | _|__|/  |_ `  
-`/   |   \_/ __ \   __\ \/ \/ /  _ \_  __ \  |/ /   |    | /  _ \ /  _ \|  | |  |/ /  \   __\`  
-`/    |    \  ___/|  |  \     (  <_> )  | \/    <    |    |(  <_> |  <_> )  |_|    <|  ||  |  `  
-`\____|__  /\___  >__|   \/\_/ \____/|__|  |__|_ \   |____| \____/ \____/|____/__|_ \__||__|  `  
-`        \/     \/                              \/                                 \/`
 
 ## ⚠️ Disclaimer
 **This tool is for educational and legitimate network administration purposes only.**  
