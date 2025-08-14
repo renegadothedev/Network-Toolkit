@@ -60,7 +60,9 @@ Network-Toolkit/
     └── wifi_analyzer.sh
 ```
 
-![Menu Preview](./Network Toolkit/image.png)
+<div align="center">
+  <img src="./image.png" alt="BB Network Toolkit" width="300">
+</div>
 
 ## 📝 How to Contribute
 1. Fork the project
