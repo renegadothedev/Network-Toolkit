@@ -9,6 +9,8 @@ The developer is **not responsible** for any misuse of this software. Unauthoriz
 
 **Network Toolkit** is a collection of networking tools for diagnostics and analysis, working on both **Termux (Android)** and traditional **Linux terminals**. Ideal for network administrators, pentesters, and IT enthusiasts.
 
+<img src="Network Toolkit/image.png" alt="Menu do Programa" width="800">
+
 ## ✨ Features
 
 | Tool | Description | Termux | Linux |
@@ -59,10 +61,6 @@ Network-Toolkit/
     ├── traceroute_tool.sh
     └── wifi_analyzer.sh
 ```
-
-<div align="center">
-  <img src="./image.png" alt="BB Network Toolkit" width="300">
-</div>
 
 ## 📝 How to Contribute
 1. Fork the project
