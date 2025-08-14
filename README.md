@@ -52,7 +52,6 @@ chmod +x toolkit.sh
 ```
 Network-Toolkit/
 ├── LICENSE
-├── README.md
 ├── toolkit.sh          (Main script)
 └── tools/
     ├── ping_tool.sh
