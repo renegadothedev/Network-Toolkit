@@ -60,6 +60,8 @@ Network-Toolkit/
     └── wifi_analyzer.sh
 ```
 
+![Menu Preview](./Network Toolkit/menu.png)
+
 ## 📝 How to Contribute
 1. Fork the project
 2. Create your branch (`git checkout -b feature/new-tool`)
