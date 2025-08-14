@@ -60,7 +60,7 @@ Network-Toolkit/
     └── wifi_analyzer.sh
 ```
 
-![Menu Preview](./Network Toolkit/menu.png)
+![Menu Preview](./Network Toolkit/image.png)
 
 ## 📝 How to Contribute
 1. Fork the project
